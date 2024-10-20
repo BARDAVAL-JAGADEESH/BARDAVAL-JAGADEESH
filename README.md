@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bardaval Jagadeesh</h1>
-<h3 align="center">A passionate android and java developer from India</h3>
+<h3 align="center"> passionate android and java developer from India</h3>
 
-,
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAM/coding-kira.gif">
 
@@ -9,14 +8,14 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://bardaval-jagadeesh.github.io/bardaval-portfolio/](https://bardaval-jagadeesh.github.io/bardaval-portfolio/)
+- 👨‍💻 My portfolio [https://bardaval-jagadeesh.github.io/bardaval-portfolio/](https://bardaval-jagadeesh.github.io/bardaval-portfolio/)
 
 - 📫 How to reach me **jagadeeshbardaval78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bardaval-jagadeesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bardaval-jagadeesh/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/jagadeesh_25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/jagadeesh_25" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/jagadeesh_25" target="blank"><img align="center" src="https://img.icons8.com/?size=80&id=eqDiO9L02aEu&format=png" alt="https://www.codechef.com/users/jagadeesh_25" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/jagadeeshbardav1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/jagadeeshbardav1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/jagadeesh_123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jagadeesh_123/" height="30" width="40" /></a>
 </p>
