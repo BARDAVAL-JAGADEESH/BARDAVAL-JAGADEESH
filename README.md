@@ -13,7 +13,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bardaval-jagadeesh&label=Profile%20views&color=0e75b6&style=flat" alt="bardaval-jagadeesh" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 My portfolio [https://bardaval-jagadeesh.github.io/bardaval-portfolio/](https://bardaval-jagadeesh.github.io/bardaval-portfolio/)
 
