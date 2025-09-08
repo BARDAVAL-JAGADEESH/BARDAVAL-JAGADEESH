@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bardaval-jagadeesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bardaval-jagadeesh/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/jagadeesh_25" target="blank"><img align="center" src="https://img.icons8.com/?size=80&id=eqDiO9L02aEu&format=png" alt="https://www.codechef.com/users/jagadeesh_25" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/jagadeeshbardav1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/jagadeeshbardav1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/jagadeesh_123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Jagadeesh_123/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Jagadeesh_123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Jagadeesh_123/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
