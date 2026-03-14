@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Bardaval Jagadeesh</h1>
-<h3 align="center"> passionate android and java developer from India</h3>
+<h3 align="center"> passionate android  from India</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAM/coding-kira.gif">
