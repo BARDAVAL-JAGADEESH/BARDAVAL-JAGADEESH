@@ -62,8 +62,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bardaval-jagadeesh&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bardaval-jagadeesh&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=BARDAVAL-JAGADEESH&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=BARDAVAL-JAGADEESH&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 <div align="center">
