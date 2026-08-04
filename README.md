@@ -68,7 +68,7 @@
 </div>
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bardaval-jagadeesh&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=BARDAVAL-JAGADEESH&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -91,15 +91,3 @@
     </td>
   </tr>
 </table>
-
----
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bardaval-jagadeesh&show_icons=true&locale=en&layout=compact" alt="bardaval-jagadeesh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bardaval-jagadeesh&show_icons=true&locale=en" alt="bardaval-jagadeesh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bardaval-jagadeesh&" alt="bardaval-jagadeesh" /></p>
