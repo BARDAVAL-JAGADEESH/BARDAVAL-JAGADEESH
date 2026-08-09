@@ -82,8 +82,13 @@
       <h3>📱 Mobile Device Management (MDM)</h3>
       <b>Company:</b> Acadhub Edu Tech Pvt. Ltd. (Onesaz)<br/>
       <b>Role:</b> Android Developer<br/><br/>
-      Building an Android-based MDM solution to manage, monitor, and secure mobile devices across educational institutions. Enables remote device control, app management, and policy enforcement for student devices.
-      <br/><br/>
+Building an enterprise-grade Android MDM/UEM platform at ONESAZ for managing, securing, monitoring, and controlling Android devices at scale.
+• Developing Android Enterprise capabilities using Kotlin, Device Policy Controller (DPC), DevicePolicyManager, Device Owner, Kiosk/Lock Task Mode, and managed device policies.
+• Implementing secure device enrollment and provisioning using QR-based enrollment, device registration, policy configuration, and device lifecycle management.
+• Building remote device management capabilities including policy enforcement, application management, remote commands, device monitoring, and compliance.
+• Designing reliable device-to-server communication with REST APIs, Firebase Cloud Messaging (FCM), Room, WorkManager, offline-first processing, retries, and recovery mechanisms.
+• Working on system-level Android challenges involving background execution, device security, reliability, persistence, synchronization, and recovery across managed devices.
+• Developing scalable architecture with modular Android components and clean separation between device management, networking, persistence, and feature layers.      <br/><br/>
       <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=black" />
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/MDM-1f6feb?style=flat-square" />
