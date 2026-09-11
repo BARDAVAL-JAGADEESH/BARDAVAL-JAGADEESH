@@ -27,8 +27,7 @@
 - 💬 Ask me about **Android, Kotlin, Java, Data Structures & Algorithms**
 - 🏆 Active competitive programmer on LeetCode, CodeChef & HackerRank
 - 📫 Reach me at **jagadeeshbardaval78@gmail.com**
-- 🌐 Portfolio: [bardaval-jagadeesh.github.io/bardaval-portfolio](https://bardaval-jagadeesh.github.io/bardaval-portfolio/)
-
+  
 ---
 
 ## 🛠️ Tech Stack
