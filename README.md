@@ -90,4 +90,4 @@ Building an enterprise-grade Android MDM/UEM platform at ONESAZ for managing, se
     </td>
   </tr>
 </table>
-# Bardaval-portfolio
+
